@@ -1,2 +1,2 @@
-# myFiles contain all my project 
-projects that i do it in the bootcamp
+# Bootcamp projects 
+projects that I do it in the bootcamp
